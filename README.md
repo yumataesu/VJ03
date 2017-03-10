@@ -11,3 +11,6 @@
 * ofxGui
 * ofxAlembic
 * ofxAssimpModelLoader
+
+## alembic file
+https://drive.google.com/drive/folders/0B3NRvblz17BILUNYbVQ4dE94RzQ?usp=sharing
